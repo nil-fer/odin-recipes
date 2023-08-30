@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../git_test"
+		},
+		{
+			"path": "../../odin-links-and-images"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "odin-recipes"
+	}
+}
